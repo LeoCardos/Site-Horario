@@ -1,2 +1,6 @@
 # Site-Horario
-Olá seja bem vindo, esse site foi desenvolvido apenas para fins de estudos, espero que gostem.
+
+## Olá! Eu sou o Leonardo Cardoso 😄
+
+### Seja bem vindo ao meu github, esse site foi desenvolvido apenas para fins de estudos, espero que gostem.
+<br>
